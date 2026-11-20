@@ -1,0 +1,99 @@
+ingredient_id,ingredient_name,category
+1,chicken breast,Protein
+2,chicken thigh,Protein
+3,ground beef,Protein
+4,beef sirloin,Protein
+5,ground turkey,Protein
+6,turkey sausage,Protein
+7,shrimp,Protein
+8,salmon fillet,Protein
+9,tuna,Protein
+10,egg,Protein
+11,black beans,Protein
+12,kidney beans,Protein
+13,chickpeas,Protein
+14,tofu,Protein
+15,mozzarella cheese,Dairy
+16,cheddar cheese,Dairy
+17,parmesan cheese,Dairy
+18,feta cheese,Dairy
+19,greek yogurt,Dairy
+20,milk,Dairy
+21,butter,Dairy
+22,olive oil,Pantry
+23,sesame oil,Pantry
+24,soy sauce,Pantry
+25,fish sauce,Pantry
+26,coconut milk,Pantry
+27,marinara sauce,Pantry
+28,tomato paste,Pantry
+29,diced tomatoes,Pantry
+30,chicken broth,Pantry
+31,vegetable broth,Pantry
+32,rice vinegar,Pantry
+33,peanut butter,Pantry
+34,honey,Pantry
+35,brown sugar,Pantry
+36,flour,Pantry
+37,breadcrumbs,Pantry
+38,spaghetti,Grain
+39,penne pasta,Grain
+40,rice noodles,Grain
+41,egg noodles,Grain
+42,cooked rice,Grain
+43,brown rice,Grain
+44,quinoa,Grain
+45,flour tortilla,Grain
+46,corn tortilla,Grain
+47,bread,Grain
+48,hamburger bun,Grain
+49,lettuce,Vegetable
+50,spinach,Vegetable
+51,kale,Vegetable
+52,broccoli,Vegetable
+53,cauliflower,Vegetable
+54,carrot,Vegetable
+55,celery,Vegetable
+56,onion,Vegetable
+57,red onion,Vegetable
+58,garlic,Vegetable
+59,bell pepper,Vegetable
+60,jalapeno,Vegetable
+61,zucchini,Vegetable
+62,cucumber,Vegetable
+63,mushroom,Vegetable
+64,green beans,Vegetable
+65,corn,Vegetable
+66,peas,Vegetable
+67,potato,Vegetable
+68,sweet potato,Vegetable
+69,avocado,Vegetable
+70,lime,Produce
+71,lemon,Produce
+72,basil,Herb
+73,cilantro,Herb
+74,parsley,Herb
+75,oregano,Herb
+76,thyme,Herb
+77,ginger,Herb
+78,green onion,Vegetable
+79,cabbage,Vegetable
+80,bean sprouts,Vegetable
+81,curry powder,Spice
+82,paprika,Spice
+83,cumin,Spice
+84,chili powder,Spice
+85,italian seasoning,Spice
+86,black pepper,Spice
+87,salt,Spice
+88,teriyaki sauce,Pantry
+89,enchilada sauce,Pantry
+90,pesto,Pantry
+91,salsa,Pantry
+92,olive,Vegetable
+93,capers,Pantry
+94,artichoke hearts,Vegetable
+95,white beans,Protein
+96,farro,Grain
+97,tzatziki sauce,Pantry
+98,peanuts,Protein

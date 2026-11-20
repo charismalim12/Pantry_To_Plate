@@ -1,0 +1,24 @@
+ingredient_id,ingredient_name,category
+1,bell pepper,Vegetable
+2,black beans,Protein
+3,bread,Pantry
+4,broccoli,Vegetable
+5,carrot,Vegetable
+6,cheddar cheese,Dairy
+7,chicken breast,Protein
+8,coconut milk,Pantry
+9,cooked rice,Grain/Starch
+10,fish sauce,Pantry
+11,flour tortilla,Grain/Starch
+12,garlic,Pantry
+13,ground beef,Protein
+14,ground turkey,Protein
+15,marinara sauce,Pantry
+16,olive oil,Pantry
+17,onion,Vegetable
+18,parmesan cheese,Dairy
+19,rice noodles,Grain/Starch
+20,shrimp,Protein
+21,soy sauce,Pantry
+22,spaghetti,Grain/Starch
+23,spinach,Vegetable

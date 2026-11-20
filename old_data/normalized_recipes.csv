@@ -1,0 +1,101 @@
+recipe_id,recipe_name,cuisine,cooking_time_minutes,difficulty,servings,instructions
+1,American Recipe 1,American,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+2,Asian Recipe 2,Asian,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+3,Mexican Recipe 3,Mexican,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+4,Italian Recipe 4,Italian,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+5,Southeast Asian Recipe 5,Southeast Asian,40,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+6,American Recipe 6,American,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+7,Asian Recipe 7,Asian,50,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+8,Mexican Recipe 8,Mexican,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+9,Italian Recipe 9,Italian,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+10,Southeast Asian Recipe 10,Southeast Asian,25,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+11,American Recipe 11,American,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+12,Asian Recipe 12,Asian,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+13,Mexican Recipe 13,Mexican,40,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+14,Italian Recipe 14,Italian,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+15,Southeast Asian Recipe 15,Southeast Asian,50,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+16,American Recipe 16,American,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+17,Asian Recipe 17,Asian,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+18,Mexican Recipe 18,Mexican,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+19,Italian Recipe 19,Italian,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+20,Southeast Asian Recipe 20,Southeast Asian,35,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+21,American Recipe 21,American,40,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+22,Asian Recipe 22,Asian,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+23,Mexican Recipe 23,Mexican,50,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+24,Italian Recipe 24,Italian,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+25,Southeast Asian Recipe 25,Southeast Asian,20,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+26,American Recipe 26,American,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+27,Asian Recipe 27,Asian,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+28,Mexican Recipe 28,Mexican,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+29,Italian Recipe 29,Italian,40,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+30,Southeast Asian Recipe 30,Southeast Asian,45,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+31,American Recipe 31,American,50,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+32,Asian Recipe 32,Asian,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+33,Mexican Recipe 33,Mexican,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+34,Italian Recipe 34,Italian,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+35,Southeast Asian Recipe 35,Southeast Asian,30,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+36,American Recipe 36,American,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+37,Asian Recipe 37,Asian,40,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+38,Mexican Recipe 38,Mexican,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+39,Italian Recipe 39,Italian,50,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+40,Southeast Asian Recipe 40,Southeast Asian,15,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+41,American Recipe 41,American,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+42,Asian Recipe 42,Asian,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+43,Mexican Recipe 43,Mexican,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+44,Italian Recipe 44,Italian,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+45,Southeast Asian Recipe 45,Southeast Asian,40,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+46,American Recipe 46,American,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+47,Asian Recipe 47,Asian,50,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+48,Mexican Recipe 48,Mexican,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+49,Italian Recipe 49,Italian,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+50,Southeast Asian Recipe 50,Southeast Asian,25,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+51,American Recipe 51,American,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+52,Asian Recipe 52,Asian,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+53,Mexican Recipe 53,Mexican,40,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+54,Italian Recipe 54,Italian,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+55,Southeast Asian Recipe 55,Southeast Asian,50,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+56,American Recipe 56,American,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+57,Asian Recipe 57,Asian,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+58,Mexican Recipe 58,Mexican,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+59,Italian Recipe 59,Italian,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+60,Southeast Asian Recipe 60,Southeast Asian,35,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+61,American Recipe 61,American,40,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+62,Asian Recipe 62,Asian,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+63,Mexican Recipe 63,Mexican,50,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+64,Italian Recipe 64,Italian,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+65,Southeast Asian Recipe 65,Southeast Asian,20,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+66,American Recipe 66,American,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+67,Asian Recipe 67,Asian,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+68,Mexican Recipe 68,Mexican,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+69,Italian Recipe 69,Italian,40,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+70,Southeast Asian Recipe 70,Southeast Asian,45,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+71,American Recipe 71,American,50,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+72,Asian Recipe 72,Asian,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+73,Mexican Recipe 73,Mexican,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+74,Italian Recipe 74,Italian,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+75,Southeast Asian Recipe 75,Southeast Asian,30,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+76,American Recipe 76,American,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+77,Asian Recipe 77,Asian,40,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+78,Mexican Recipe 78,Mexican,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+79,Italian Recipe 79,Italian,50,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+80,Southeast Asian Recipe 80,Southeast Asian,15,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+81,American Recipe 81,American,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+82,Asian Recipe 82,Asian,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+83,Mexican Recipe 83,Mexican,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+84,Italian Recipe 84,Italian,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+85,Southeast Asian Recipe 85,Southeast Asian,40,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+86,American Recipe 86,American,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+87,Asian Recipe 87,Asian,50,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+88,Mexican Recipe 88,Mexican,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+89,Italian Recipe 89,Italian,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+90,Southeast Asian Recipe 90,Southeast Asian,25,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+91,American Recipe 91,American,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+92,Asian Recipe 92,Asian,35,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+93,Mexican Recipe 93,Mexican,40,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+94,Italian Recipe 94,Italian,45,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+95,Southeast Asian Recipe 95,Southeast Asian,50,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+96,American Recipe 96,American,15,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+97,Asian Recipe 97,Asian,20,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+98,Mexican Recipe 98,Mexican,25,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+99,Italian Recipe 99,Italian,30,Easy,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.
+100,Southeast Asian Recipe 100,Southeast Asian,35,Medium,4,Prepare ingredients. Cook protein and vegetables. Combine with starch and seasonings. Serve warm.

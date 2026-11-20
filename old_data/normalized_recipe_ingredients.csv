@@ -1,0 +1,681 @@
+recipe_id,ingredient_name,quantity,unit
+1,garlic,1,portion
+1,olive oil,1,portion
+1,ground beef,1,portion
+1,onion,1,portion
+1,cheddar cheese,1,portion
+1,bread,1,portion
+2,garlic,1,portion
+2,olive oil,1,portion
+2,ground turkey,1,portion
+2,broccoli,1,portion
+2,carrot,1,portion
+2,soy sauce,1,portion
+2,cooked rice,1,portion
+3,garlic,1,portion
+3,olive oil,1,portion
+3,shrimp,1,portion
+3,black beans,1,portion
+3,flour tortilla,1,portion
+3,cheddar cheese,1,portion
+3,bell pepper,1,portion
+4,garlic,1,portion
+4,olive oil,1,portion
+4,black beans,1,portion
+4,spaghetti,1,portion
+4,marinara sauce,1,portion
+4,parmesan cheese,1,portion
+4,spinach,1,portion
+5,garlic,1,portion
+5,olive oil,1,portion
+5,chicken breast,1,portion
+5,coconut milk,1,portion
+5,rice noodles,1,portion
+5,fish sauce,1,portion
+5,bell pepper,1,portion
+6,garlic,1,portion
+6,olive oil,1,portion
+6,ground beef,1,portion
+6,onion,1,portion
+6,cheddar cheese,1,portion
+6,bread,1,portion
+7,garlic,1,portion
+7,olive oil,1,portion
+7,ground turkey,1,portion
+7,broccoli,1,portion
+7,carrot,1,portion
+7,soy sauce,1,portion
+7,cooked rice,1,portion
+8,garlic,1,portion
+8,olive oil,1,portion
+8,shrimp,1,portion
+8,black beans,1,portion
+8,flour tortilla,1,portion
+8,cheddar cheese,1,portion
+8,bell pepper,1,portion
+9,garlic,1,portion
+9,olive oil,1,portion
+9,black beans,1,portion
+9,spaghetti,1,portion
+9,marinara sauce,1,portion
+9,parmesan cheese,1,portion
+9,spinach,1,portion
+10,garlic,1,portion
+10,olive oil,1,portion
+10,chicken breast,1,portion
+10,coconut milk,1,portion
+10,rice noodles,1,portion
+10,fish sauce,1,portion
+10,bell pepper,1,portion
+11,garlic,1,portion
+11,olive oil,1,portion
+11,ground beef,1,portion
+11,onion,1,portion
+11,cheddar cheese,1,portion
+11,bread,1,portion
+12,garlic,1,portion
+12,olive oil,1,portion
+12,ground turkey,1,portion
+12,broccoli,1,portion
+12,carrot,1,portion
+12,soy sauce,1,portion
+12,cooked rice,1,portion
+13,garlic,1,portion
+13,olive oil,1,portion
+13,shrimp,1,portion
+13,black beans,1,portion
+13,flour tortilla,1,portion
+13,cheddar cheese,1,portion
+13,bell pepper,1,portion
+14,garlic,1,portion
+14,olive oil,1,portion
+14,black beans,1,portion
+14,spaghetti,1,portion
+14,marinara sauce,1,portion
+14,parmesan cheese,1,portion
+14,spinach,1,portion
+15,garlic,1,portion
+15,olive oil,1,portion
+15,chicken breast,1,portion
+15,coconut milk,1,portion
+15,rice noodles,1,portion
+15,fish sauce,1,portion
+15,bell pepper,1,portion
+16,garlic,1,portion
+16,olive oil,1,portion
+16,ground beef,1,portion
+16,onion,1,portion
+16,cheddar cheese,1,portion
+16,bread,1,portion
+17,garlic,1,portion
+17,olive oil,1,portion
+17,ground turkey,1,portion
+17,broccoli,1,portion
+17,carrot,1,portion
+17,soy sauce,1,portion
+17,cooked rice,1,portion
+18,garlic,1,portion
+18,olive oil,1,portion
+18,shrimp,1,portion
+18,black beans,1,portion
+18,flour tortilla,1,portion
+18,cheddar cheese,1,portion
+18,bell pepper,1,portion
+19,garlic,1,portion
+19,olive oil,1,portion
+19,black beans,1,portion
+19,spaghetti,1,portion
+19,marinara sauce,1,portion
+19,parmesan cheese,1,portion
+19,spinach,1,portion
+20,garlic,1,portion
+20,olive oil,1,portion
+20,chicken breast,1,portion
+20,coconut milk,1,portion
+20,rice noodles,1,portion
+20,fish sauce,1,portion
+20,bell pepper,1,portion
+21,garlic,1,portion
+21,olive oil,1,portion
+21,ground beef,1,portion
+21,onion,1,portion
+21,cheddar cheese,1,portion
+21,bread,1,portion
+22,garlic,1,portion
+22,olive oil,1,portion
+22,ground turkey,1,portion
+22,broccoli,1,portion
+22,carrot,1,portion
+22,soy sauce,1,portion
+22,cooked rice,1,portion
+23,garlic,1,portion
+23,olive oil,1,portion
+23,shrimp,1,portion
+23,black beans,1,portion
+23,flour tortilla,1,portion
+23,cheddar cheese,1,portion
+23,bell pepper,1,portion
+24,garlic,1,portion
+24,olive oil,1,portion
+24,black beans,1,portion
+24,spaghetti,1,portion
+24,marinara sauce,1,portion
+24,parmesan cheese,1,portion
+24,spinach,1,portion
+25,garlic,1,portion
+25,olive oil,1,portion
+25,chicken breast,1,portion
+25,coconut milk,1,portion
+25,rice noodles,1,portion
+25,fish sauce,1,portion
+25,bell pepper,1,portion
+26,garlic,1,portion
+26,olive oil,1,portion
+26,ground beef,1,portion
+26,onion,1,portion
+26,cheddar cheese,1,portion
+26,bread,1,portion
+27,garlic,1,portion
+27,olive oil,1,portion
+27,ground turkey,1,portion
+27,broccoli,1,portion
+27,carrot,1,portion
+27,soy sauce,1,portion
+27,cooked rice,1,portion
+28,garlic,1,portion
+28,olive oil,1,portion
+28,shrimp,1,portion
+28,black beans,1,portion
+28,flour tortilla,1,portion
+28,cheddar cheese,1,portion
+28,bell pepper,1,portion
+29,garlic,1,portion
+29,olive oil,1,portion
+29,black beans,1,portion
+29,spaghetti,1,portion
+29,marinara sauce,1,portion
+29,parmesan cheese,1,portion
+29,spinach,1,portion
+30,garlic,1,portion
+30,olive oil,1,portion
+30,chicken breast,1,portion
+30,coconut milk,1,portion
+30,rice noodles,1,portion
+30,fish sauce,1,portion
+30,bell pepper,1,portion
+31,garlic,1,portion
+31,olive oil,1,portion
+31,ground beef,1,portion
+31,onion,1,portion
+31,cheddar cheese,1,portion
+31,bread,1,portion
+32,garlic,1,portion
+32,olive oil,1,portion
+32,ground turkey,1,portion
+32,broccoli,1,portion
+32,carrot,1,portion
+32,soy sauce,1,portion
+32,cooked rice,1,portion
+33,garlic,1,portion
+33,olive oil,1,portion
+33,shrimp,1,portion
+33,black beans,1,portion
+33,flour tortilla,1,portion
+33,cheddar cheese,1,portion
+33,bell pepper,1,portion
+34,garlic,1,portion
+34,olive oil,1,portion
+34,black beans,1,portion
+34,spaghetti,1,portion
+34,marinara sauce,1,portion
+34,parmesan cheese,1,portion
+34,spinach,1,portion
+35,garlic,1,portion
+35,olive oil,1,portion
+35,chicken breast,1,portion
+35,coconut milk,1,portion
+35,rice noodles,1,portion
+35,fish sauce,1,portion
+35,bell pepper,1,portion
+36,garlic,1,portion
+36,olive oil,1,portion
+36,ground beef,1,portion
+36,onion,1,portion
+36,cheddar cheese,1,portion
+36,bread,1,portion
+37,garlic,1,portion
+37,olive oil,1,portion
+37,ground turkey,1,portion
+37,broccoli,1,portion
+37,carrot,1,portion
+37,soy sauce,1,portion
+37,cooked rice,1,portion
+38,garlic,1,portion
+38,olive oil,1,portion
+38,shrimp,1,portion
+38,black beans,1,portion
+38,flour tortilla,1,portion
+38,cheddar cheese,1,portion
+38,bell pepper,1,portion
+39,garlic,1,portion
+39,olive oil,1,portion
+39,black beans,1,portion
+39,spaghetti,1,portion
+39,marinara sauce,1,portion
+39,parmesan cheese,1,portion
+39,spinach,1,portion
+40,garlic,1,portion
+40,olive oil,1,portion
+40,chicken breast,1,portion
+40,coconut milk,1,portion
+40,rice noodles,1,portion
+40,fish sauce,1,portion
+40,bell pepper,1,portion
+41,garlic,1,portion
+41,olive oil,1,portion
+41,ground beef,1,portion
+41,onion,1,portion
+41,cheddar cheese,1,portion
+41,bread,1,portion
+42,garlic,1,portion
+42,olive oil,1,portion
+42,ground turkey,1,portion
+42,broccoli,1,portion
+42,carrot,1,portion
+42,soy sauce,1,portion
+42,cooked rice,1,portion
+43,garlic,1,portion
+43,olive oil,1,portion
+43,shrimp,1,portion
+43,black beans,1,portion
+43,flour tortilla,1,portion
+43,cheddar cheese,1,portion
+43,bell pepper,1,portion
+44,garlic,1,portion
+44,olive oil,1,portion
+44,black beans,1,portion
+44,spaghetti,1,portion
+44,marinara sauce,1,portion
+44,parmesan cheese,1,portion
+44,spinach,1,portion
+45,garlic,1,portion
+45,olive oil,1,portion
+45,chicken breast,1,portion
+45,coconut milk,1,portion
+45,rice noodles,1,portion
+45,fish sauce,1,portion
+45,bell pepper,1,portion
+46,garlic,1,portion
+46,olive oil,1,portion
+46,ground beef,1,portion
+46,onion,1,portion
+46,cheddar cheese,1,portion
+46,bread,1,portion
+47,garlic,1,portion
+47,olive oil,1,portion
+47,ground turkey,1,portion
+47,broccoli,1,portion
+47,carrot,1,portion
+47,soy sauce,1,portion
+47,cooked rice,1,portion
+48,garlic,1,portion
+48,olive oil,1,portion
+48,shrimp,1,portion
+48,black beans,1,portion
+48,flour tortilla,1,portion
+48,cheddar cheese,1,portion
+48,bell pepper,1,portion
+49,garlic,1,portion
+49,olive oil,1,portion
+49,black beans,1,portion
+49,spaghetti,1,portion
+49,marinara sauce,1,portion
+49,parmesan cheese,1,portion
+49,spinach,1,portion
+50,garlic,1,portion
+50,olive oil,1,portion
+50,chicken breast,1,portion
+50,coconut milk,1,portion
+50,rice noodles,1,portion
+50,fish sauce,1,portion
+50,bell pepper,1,portion
+51,garlic,1,portion
+51,olive oil,1,portion
+51,ground beef,1,portion
+51,onion,1,portion
+51,cheddar cheese,1,portion
+51,bread,1,portion
+52,garlic,1,portion
+52,olive oil,1,portion
+52,ground turkey,1,portion
+52,broccoli,1,portion
+52,carrot,1,portion
+52,soy sauce,1,portion
+52,cooked rice,1,portion
+53,garlic,1,portion
+53,olive oil,1,portion
+53,shrimp,1,portion
+53,black beans,1,portion
+53,flour tortilla,1,portion
+53,cheddar cheese,1,portion
+53,bell pepper,1,portion
+54,garlic,1,portion
+54,olive oil,1,portion
+54,black beans,1,portion
+54,spaghetti,1,portion
+54,marinara sauce,1,portion
+54,parmesan cheese,1,portion
+54,spinach,1,portion
+55,garlic,1,portion
+55,olive oil,1,portion
+55,chicken breast,1,portion
+55,coconut milk,1,portion
+55,rice noodles,1,portion
+55,fish sauce,1,portion
+55,bell pepper,1,portion
+56,garlic,1,portion
+56,olive oil,1,portion
+56,ground beef,1,portion
+56,onion,1,portion
+56,cheddar cheese,1,portion
+56,bread,1,portion
+57,garlic,1,portion
+57,olive oil,1,portion
+57,ground turkey,1,portion
+57,broccoli,1,portion
+57,carrot,1,portion
+57,soy sauce,1,portion
+57,cooked rice,1,portion
+58,garlic,1,portion
+58,olive oil,1,portion
+58,shrimp,1,portion
+58,black beans,1,portion
+58,flour tortilla,1,portion
+58,cheddar cheese,1,portion
+58,bell pepper,1,portion
+59,garlic,1,portion
+59,olive oil,1,portion
+59,black beans,1,portion
+59,spaghetti,1,portion
+59,marinara sauce,1,portion
+59,parmesan cheese,1,portion
+59,spinach,1,portion
+60,garlic,1,portion
+60,olive oil,1,portion
+60,chicken breast,1,portion
+60,coconut milk,1,portion
+60,rice noodles,1,portion
+60,fish sauce,1,portion
+60,bell pepper,1,portion
+61,garlic,1,portion
+61,olive oil,1,portion
+61,ground beef,1,portion
+61,onion,1,portion
+61,cheddar cheese,1,portion
+61,bread,1,portion
+62,garlic,1,portion
+62,olive oil,1,portion
+62,ground turkey,1,portion
+62,broccoli,1,portion
+62,carrot,1,portion
+62,soy sauce,1,portion
+62,cooked rice,1,portion
+63,garlic,1,portion
+63,olive oil,1,portion
+63,shrimp,1,portion
+63,black beans,1,portion
+63,flour tortilla,1,portion
+63,cheddar cheese,1,portion
+63,bell pepper,1,portion
+64,garlic,1,portion
+64,olive oil,1,portion
+64,black beans,1,portion
+64,spaghetti,1,portion
+64,marinara sauce,1,portion
+64,parmesan cheese,1,portion
+64,spinach,1,portion
+65,garlic,1,portion
+65,olive oil,1,portion
+65,chicken breast,1,portion
+65,coconut milk,1,portion
+65,rice noodles,1,portion
+65,fish sauce,1,portion
+65,bell pepper,1,portion
+66,garlic,1,portion
+66,olive oil,1,portion
+66,ground beef,1,portion
+66,onion,1,portion
+66,cheddar cheese,1,portion
+66,bread,1,portion
+67,garlic,1,portion
+67,olive oil,1,portion
+67,ground turkey,1,portion
+67,broccoli,1,portion
+67,carrot,1,portion
+67,soy sauce,1,portion
+67,cooked rice,1,portion
+68,garlic,1,portion
+68,olive oil,1,portion
+68,shrimp,1,portion
+68,black beans,1,portion
+68,flour tortilla,1,portion
+68,cheddar cheese,1,portion
+68,bell pepper,1,portion
+69,garlic,1,portion
+69,olive oil,1,portion
+69,black beans,1,portion
+69,spaghetti,1,portion
+69,marinara sauce,1,portion
+69,parmesan cheese,1,portion
+69,spinach,1,portion
+70,garlic,1,portion
+70,olive oil,1,portion
+70,chicken breast,1,portion
+70,coconut milk,1,portion
+70,rice noodles,1,portion
+70,fish sauce,1,portion
+70,bell pepper,1,portion
+71,garlic,1,portion
+71,olive oil,1,portion
+71,ground beef,1,portion
+71,onion,1,portion
+71,cheddar cheese,1,portion
+71,bread,1,portion
+72,garlic,1,portion
+72,olive oil,1,portion
+72,ground turkey,1,portion
+72,broccoli,1,portion
+72,carrot,1,portion
+72,soy sauce,1,portion
+72,cooked rice,1,portion
+73,garlic,1,portion
+73,olive oil,1,portion
+73,shrimp,1,portion
+73,black beans,1,portion
+73,flour tortilla,1,portion
+73,cheddar cheese,1,portion
+73,bell pepper,1,portion
+74,garlic,1,portion
+74,olive oil,1,portion
+74,black beans,1,portion
+74,spaghetti,1,portion
+74,marinara sauce,1,portion
+74,parmesan cheese,1,portion
+74,spinach,1,portion
+75,garlic,1,portion
+75,olive oil,1,portion
+75,chicken breast,1,portion
+75,coconut milk,1,portion
+75,rice noodles,1,portion
+75,fish sauce,1,portion
+75,bell pepper,1,portion
+76,garlic,1,portion
+76,olive oil,1,portion
+76,ground beef,1,portion
+76,onion,1,portion
+76,cheddar cheese,1,portion
+76,bread,1,portion
+77,garlic,1,portion
+77,olive oil,1,portion
+77,ground turkey,1,portion
+77,broccoli,1,portion
+77,carrot,1,portion
+77,soy sauce,1,portion
+77,cooked rice,1,portion
+78,garlic,1,portion
+78,olive oil,1,portion
+78,shrimp,1,portion
+78,black beans,1,portion
+78,flour tortilla,1,portion
+78,cheddar cheese,1,portion
+78,bell pepper,1,portion
+79,garlic,1,portion
+79,olive oil,1,portion
+79,black beans,1,portion
+79,spaghetti,1,portion
+79,marinara sauce,1,portion
+79,parmesan cheese,1,portion
+79,spinach,1,portion
+80,garlic,1,portion
+80,olive oil,1,portion
+80,chicken breast,1,portion
+80,coconut milk,1,portion
+80,rice noodles,1,portion
+80,fish sauce,1,portion
+80,bell pepper,1,portion
+81,garlic,1,portion
+81,olive oil,1,portion
+81,ground beef,1,portion
+81,onion,1,portion
+81,cheddar cheese,1,portion
+81,bread,1,portion
+82,garlic,1,portion
+82,olive oil,1,portion
+82,ground turkey,1,portion
+82,broccoli,1,portion
+82,carrot,1,portion
+82,soy sauce,1,portion
+82,cooked rice,1,portion
+83,garlic,1,portion
+83,olive oil,1,portion
+83,shrimp,1,portion
+83,black beans,1,portion
+83,flour tortilla,1,portion
+83,cheddar cheese,1,portion
+83,bell pepper,1,portion
+84,garlic,1,portion
+84,olive oil,1,portion
+84,black beans,1,portion
+84,spaghetti,1,portion
+84,marinara sauce,1,portion
+84,parmesan cheese,1,portion
+84,spinach,1,portion
+85,garlic,1,portion
+85,olive oil,1,portion
+85,chicken breast,1,portion
+85,coconut milk,1,portion
+85,rice noodles,1,portion
+85,fish sauce,1,portion
+85,bell pepper,1,portion
+86,garlic,1,portion
+86,olive oil,1,portion
+86,ground beef,1,portion
+86,onion,1,portion
+86,cheddar cheese,1,portion
+86,bread,1,portion
+87,garlic,1,portion
+87,olive oil,1,portion
+87,ground turkey,1,portion
+87,broccoli,1,portion
+87,carrot,1,portion
+87,soy sauce,1,portion
+87,cooked rice,1,portion
+88,garlic,1,portion
+88,olive oil,1,portion
+88,shrimp,1,portion
+88,black beans,1,portion
+88,flour tortilla,1,portion
+88,cheddar cheese,1,portion
+88,bell pepper,1,portion
+89,garlic,1,portion
+89,olive oil,1,portion
+89,black beans,1,portion
+89,spaghetti,1,portion
+89,marinara sauce,1,portion
+89,parmesan cheese,1,portion
+89,spinach,1,portion
+90,garlic,1,portion
+90,olive oil,1,portion
+90,chicken breast,1,portion
+90,coconut milk,1,portion
+90,rice noodles,1,portion
+90,fish sauce,1,portion
+90,bell pepper,1,portion
+91,garlic,1,portion
+91,olive oil,1,portion
+91,ground beef,1,portion
+91,onion,1,portion
+91,cheddar cheese,1,portion
+91,bread,1,portion
+92,garlic,1,portion
+92,olive oil,1,portion
+92,ground turkey,1,portion
+92,broccoli,1,portion
+92,carrot,1,portion
+92,soy sauce,1,portion
+92,cooked rice,1,portion
+93,garlic,1,portion
+93,olive oil,1,portion
+93,shrimp,1,portion
+93,black beans,1,portion
+93,flour tortilla,1,portion
+93,cheddar cheese,1,portion
+93,bell pepper,1,portion
+94,garlic,1,portion
+94,olive oil,1,portion
+94,black beans,1,portion
+94,spaghetti,1,portion
+94,marinara sauce,1,portion
+94,parmesan cheese,1,portion
+94,spinach,1,portion
+95,garlic,1,portion
+95,olive oil,1,portion
+95,chicken breast,1,portion
+95,coconut milk,1,portion
+95,rice noodles,1,portion
+95,fish sauce,1,portion
+95,bell pepper,1,portion
+96,garlic,1,portion
+96,olive oil,1,portion
+96,ground beef,1,portion
+96,onion,1,portion
+96,cheddar cheese,1,portion
+96,bread,1,portion
+97,garlic,1,portion
+97,olive oil,1,portion
+97,ground turkey,1,portion
+97,broccoli,1,portion
+97,carrot,1,portion
+97,soy sauce,1,portion
+97,cooked rice,1,portion
+98,garlic,1,portion
+98,olive oil,1,portion
+98,shrimp,1,portion
+98,black beans,1,portion
+98,flour tortilla,1,portion
+98,cheddar cheese,1,portion
+98,bell pepper,1,portion
+99,garlic,1,portion
+99,olive oil,1,portion
+99,black beans,1,portion
+99,spaghetti,1,portion
+99,marinara sauce,1,portion
+99,parmesan cheese,1,portion
+99,spinach,1,portion
+100,garlic,1,portion
+100,olive oil,1,portion
+100,chicken breast,1,portion
+100,coconut milk,1,portion
+100,rice noodles,1,portion
+100,fish sauce,1,portion
+100,bell pepper,1,portion
